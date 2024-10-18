@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "EDA on Covid-19",
+    "desc": "This is an Exploratory Data Analysis (EDA) on Covid-19 dataset showcasing various patterns that followed in various outbreak phases.",
+    "image": "covid",
+    "category": "android",
+    "links": {
+      "view":"#",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Employee Management System",
+    "desc": "Native website built using Java, JDBC and MySQL. A GUI based Desktop Application which is used to manage employees in an organisation.",
+    "image": "emp",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Sentiment Analysis on Product Reviews",
+    "desc": "Performed sentiment analysis on product review dataset to conclude the responses of consumers for the product.",
+    "image": "tone",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  }
+]
